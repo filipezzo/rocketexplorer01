@@ -1,0 +1,105 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  margin: 0;
+  text-align: center;
+}
+
+#hero {
+  width: 592px;
+  margin: 0 auto 72px;
+}
+
+#hero img {
+  margin-bottom: 72px;
+}
+
+img {
+  margin: 100px;
+  display: block;
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: "Inter", sans-serif;
+  font-size: 49px;
+  line-height: 56px;
+  font-weight: normal;
+  margin-bottom: 32px;
+}
+
+
+.unique {
+  color: #ff9900;
+  font-weight: bold;
+}
+
+p,
+.ambiente,
+#footer {
+  color: #7d7987;
+  font-size: 14px;
+  line-height: 28px;
+}
+
+#footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#footer a {
+  color: #ff9900;
+}
+
+#footer a+a {
+  margin-left: 28px;
+}
+
+.line {
+  width: 568px;
+  height: 0;
+  margin: 0 auto 8px;
+  border: 1px solid #ECEFF2;
+}
+
+#balls {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+
+.ambiente {
+  text-align: center;
+}
+
+.voce {
+  display: block;
+  text-align: center;
+
+}
+
+#hero img {
+  margin-bottom: 72px;
+}
+
+.span-exclusivo {
+  font-weight: bold;
+}
+
+#hero strong {
+  color: #ff9900;
+  font-weight: bold;
+}
+
+.gold {
+  color: #ff9900;
+}
+
+.invest {
+  display: block;
+  text-align: center;
+}
+
+.bold {
+  font-weight: bold;
+}
